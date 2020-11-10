@@ -13,3 +13,9 @@
 ### Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-fffe84?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
+
+### Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
