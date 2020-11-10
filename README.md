@@ -1,10 +1,15 @@
 [![Header](https://github.com/maxtkach/maxtkach/blob/main/assets/1.jpg)]()
 
-## I'm a Pupil, Frontend Developer!
+### I'm a Frontend Developer and just cool guy!✌
 
-Languages and Tools
-![VsCode](https://img.shields.io/badge/-VsCode-fffe86?style=for-the-badge&logo=VsCode)
-![HTML](https://img.shields.io/badge/-HTML-?
-style=for-the-badge&logo=HTML)
+### Also i am very hardworking👨‍💻
 
-Follow Me
+### Currently learning JavaScript 🌱
+
+### Follow Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-fffe84?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach44/?hl=ru)
+
+### Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-fffe84?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
