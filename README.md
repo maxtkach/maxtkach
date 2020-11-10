@@ -4,6 +4,6 @@
 
 Languages and Tools
 ![VsCode](https://img.shields.io/badge/-VsCode-fffe86?style=for-the-badge&logo=VsCode)
-![HTML](https://img.shields.io/badge/-HTML-?style=for-the-badge&logo=HTML)
+![HTML](https://img.shields.io/badge/-HTML-??style=for-the-badge&logo=HTML)
 
 Follow Me
