@@ -1,4 +1,4 @@
-<h2 align="center">🔮 Hey There! I'm Max U_U </h2> 
+<h2 align="center">🔮 Hey There! I'm Max </h2> 
 <p align="center">
   Front End Developer
 </p> 
