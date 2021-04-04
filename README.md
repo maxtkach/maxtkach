@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="giphy.gif" width="360" title="Calm">
+</p>
 
 ### Follow Me
 
