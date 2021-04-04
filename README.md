@@ -2,7 +2,7 @@
 
 ### Follow Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-fffe84?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach44/?hl=ru)
+[![Instagram](https://img.shields.io/badge/Instagram-fffe84?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach4/?hl=ru)
 
 ### Contact Me
 
