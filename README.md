@@ -4,23 +4,23 @@
   <img src="giphy.gif" width="360" title="Calm">
 </p>
 
-### Follow Me
+## Follow Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-e5f0ff?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach4/?hl=ru)
+* [![Instagram](https://img.shields.io/badge/Instagram-e5f0ff?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach4/?hl=ru)
 
-### Contact Me
+## Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
+* [![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
 
-### Stats
+## Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=graywhite)
+* ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/maxtkach/github-readme-stats)
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/maxtkach/github-readme-stats)
 
-### Languages and Tools:
+## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+* mg align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
