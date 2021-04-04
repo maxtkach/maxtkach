@@ -2,11 +2,11 @@
 
 ### Follow Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-fffe84?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach4/?hl=ru)
+[![Instagram](https://img.shields.io/badge/Instagram-e5f0ff?style=for-the-badge&logo=instagram)](https://www.instagram.com/maxtkach4/?hl=ru)
 
 ### Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-fffe84?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
+[![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
 
 ### Stats
 
