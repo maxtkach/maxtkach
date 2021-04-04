@@ -1,7 +1,4 @@
 <h2 align="center">🔮 Hey There! I'm Max </h2> 
-<p align="center">
-  Front End Developer
-</p> 
 
 <p align="center">
   <img src="giphy.gif" width="360" title="Calm">
