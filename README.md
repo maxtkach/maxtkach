@@ -1,6 +1,6 @@
 <h2 align="center">🔮 Hey There! I'm Max </h2> 
 
-<p align="center">
+<p align="center" style = "width:100%">
   <img src="giphy.gif" width="360" title="Calm">
 </p>
 
