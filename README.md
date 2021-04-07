@@ -1,7 +1,7 @@
 <h2 align="center">🔮 Hey There! I'm Max </h2> 
 
-<p align="center" style = "width:100%">
-  <img src="giphy.gif" width="360" title="Calm">
+<p align="center">
+  <img src="giphy.gif" width="1000px" title="Calm">
 </p>
 
 ## Follow Me
