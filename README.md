@@ -38,7 +38,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 
-## Сourse certificates:
+<h2 align="left">Course certificates below </h2> 
 
 <p align="left">
   <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" width="500px" title="Calm">
