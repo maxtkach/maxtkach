@@ -40,4 +40,6 @@
 
 ## Сourse certificates:
 
-<img align="left" alt="Cert" width="500px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
+<p align="center">
+  <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" width="500px" title="Calm">
+</p>
