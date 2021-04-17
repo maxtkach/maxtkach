@@ -19,9 +19,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/maxtkach/github-readme-stats)
  
 ## Course certificates
-[logo]: <img align="left" alt="Hillel Frontend Pro" width="400px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
-[logo]: <img align="left" alt="Ampli" width="400px" src="cert1.jpg" />
-[logo]: <img align="left" alt="GoIT" width="400px" src="certificate.png" />
+<img align="left" alt="Hillel Frontend Pro" width="200px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
+<img align="left" alt="Ampli" width="200px" src="cert1.jpg" />
+<img align="left" alt="GoIT" width="200px" src="certificate.png" />
 
 ***
 
