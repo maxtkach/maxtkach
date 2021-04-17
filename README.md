@@ -11,6 +11,12 @@
 ## Contact Me
 
  [![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
+ 
+ 
+<h2 align="center">Course certificates</h2> 
+<img align="center" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
+<img align="center" alt="Ampli" width="350px" src="cert1.jpg" />
+<img align="center" alt="GoIT" width="350px" src="certificate.png" />
 
 ## Stats
 
@@ -39,7 +45,4 @@
 
 <img align="left" alt="Python" width="50px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 
-<h2 align="center">Course certificates</h2> 
-<img align="center" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
-<img align="center" alt="Ampli" width="350px" src="cert1.jpg" />
-<img align="center" alt="GoIT" width="350px" src="certificate.png" />
+
