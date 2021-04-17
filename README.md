@@ -40,8 +40,6 @@
 <img align="left" alt="Python" width="26px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 
 ## Course certificates
-<img align="left" alt="Hillel Frontend Pro" width="400px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
-<img align="left" alt="Ampli" width="400px" src="cert1.jpg" />
-<img align="left" alt="GoIT" width="400px" src="certificate.png" />
-
-***
+<img align="left" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
+<img align="left" alt="Ampli" width="350px" src="cert1.jpg" />
+<img align="left" alt="GoIT" width="350px" src="certificate.png" />
