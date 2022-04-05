@@ -13,7 +13,9 @@
  [![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
  
  ## 🎯 Want to learn:
+ 
 <br/>
+
 * NodeJs
 * About Databases(MongoDB)
 * Build a portfolio(Figma Web Design)
