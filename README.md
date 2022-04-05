@@ -12,27 +12,24 @@
 
  [![Telegram](https://img.shields.io/badge/Telegram-e5f0ff?style=for-the-badge&logo=telegram)](https://www.t.me/maxtkach4422)
  
- 
-<h2 align="left">Course certificates</h2> 
-<img align="center" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
-<img align="center" alt="Ampli" width="350px" src="cert1.jpg" />
-<img align="center" alt="GoIT" width="350px" src="certificate.png" />
-## 
-<h2 align="left"> Learn: </h2> 
-
-  <p align="left"></p>
-  
-  
-  
-
-
-## 🎯 Want to learn:
+ ## 🎯 Want to learn:
 <br/>
 * NodeJs
 * About Databases(MongoDB)
 * Build a portfolio(Figma Web Design)
 * How to use Python in app development
 * React
+ 
+<h2 align="left">Course certificates</h2> 
+<img align="center" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
+<img align="center" alt="Ampli" width="350px" src="cert1.jpg" />
+<img align="center" alt="GoIT" width="350px" src="certificate.png" />
+## 
+  
+  
+
+
+
     
     
 ## Stats
