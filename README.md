@@ -45,4 +45,12 @@
 
 <img align="left" alt="Python" width="50px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 
-
+## 🎯 Main Targets
+<h2 align="left"> Learn: </h2> 
+<p align="left">
+  NodeJs
+  About Databases(MongoDB)
+  Build a portfolio(Figma Web Design)
+  How to use Python in app development
+  React
+</p>
