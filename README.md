@@ -26,13 +26,14 @@
   
 
 
-🎯 Main Targets: {
-        js: ['NodeJs'],
-        db: ['About Databases(MongoDB)'],
-        design: ['Build a portfolio(Figma Web Design)'],
-        other: ['How to use Python in app development'],
-        backend: ['React']
-    },
+## 🎯 Want to learn:
+<br/>
+* NodeJs
+* About Databases(MongoDB)
+* Build a portfolio(Figma Web Design)
+* How to use Python in app development
+* React
+    
     
 ## Stats
 
