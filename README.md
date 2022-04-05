@@ -17,7 +17,23 @@
 <img align="center" alt="Hillel Frontend Pro" width="350px" src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" />
 <img align="center" alt="Ampli" width="350px" src="cert1.jpg" />
 <img align="center" alt="GoIT" width="350px" src="certificate.png" />
+## 
+<h2 align="left"> Learn: </h2> 
 
+  <p align="left"></p>
+  
+  
+  
+
+
+🎯 Main Targets: {
+        js: ['NodeJs'],
+        db: ['About Databases(MongoDB)'],
+        design: ['Build a portfolio(Figma Web Design)'],
+        other: ['How to use Python in app development'],
+        backend: ['React']
+    },
+    
 ## Stats
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=graywhite)
@@ -45,12 +61,4 @@
 
 <img align="left" alt="Python" width="50px" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png" />
 
-## 🎯 Main Targets
-<h2 align="left"> Learn: </h2> 
-<p align="left">
-  NodeJs
-  About Databases(MongoDB)
-  Build a portfolio(Figma Web Design)
-  How to use Python in app development
-  React
-</p>
+
