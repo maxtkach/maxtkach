@@ -1,10 +1,10 @@
-# <div align="center">👨‍💻 Макс Ткач | 開発者 (Разработчик)</div>
+# <div align="center">👨‍💻 Макс Ткач | Разработчик</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;%E6%8A%80%E8%A1%93%E6%8E%A2%E6%B1%82%E8%80%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3ZGJ2azljczNnNmF3Znh6bWRzZmdrdmF2Z3kwdHZtZ2ZlNTltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="200px" style="border-radius: 20px;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVlemo0bW1pZmZrbm5naXRqMTk2em13MnR0cGJkbXN2bnBlZmc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200px" style="border-radius: 20px;" />
   </p>
 
   <p align="center">
@@ -25,41 +25,19 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" />
 </div>
 
-## 🧠 Моя Философия | 私の哲学
+## 🧠 Моя Философия
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cherry%20Blossom.png" width="40" alt="Sakura" />
-        <br>
-        <strong>Простота (侘寂 Ваби-саби)</strong>
-        <br>
-        <em>Простота - высшая форма изысканности</em>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun.png" width="40" alt="Growth" />
-        <br>
-        <strong>Постоянное совершенствование (改善 Кайдзен)</strong>
-        <br>
-        <em>Ежедневный прогресс ведет к великим изменениям</em>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="40" alt="Precision" />
-        <br>
-        <strong>Точность (精度 Сэйдо)</strong>
-        <br>
-        <em>Точность важнее совершенства</em>
-      </td>
-    </tr>
-  </table>
+  <p align="center" style="font-size: 18px; max-width: 600px; margin: 0 auto;">
+    <strong>Кайдзен — </strong>путь постоянного совершенствования. Каждый день делай маленький шаг вперед, и со временем эти шаги приведут к большим переменам.
+  </p>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="50" />
 </div>
 
-## 💻 Технологии | テクノロジー
+## 💻 Технологии
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -75,11 +53,11 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="50" />
 </div>
 
-## 📦 Проекты | プロジェクト
+## 📦 Проекты
 
 <div align="center">
   <a href="#" style="text-decoration: none;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwYzBiZmoxZWVkbXVxcm9uOWM0OG94c2U5eXV5ZHYza2h0bzV1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Begrateful App" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
+    <img src="https://i.imgur.com/Pyjp2X8.gif" alt="Begrateful App" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
@@ -89,7 +67,7 @@
   <br>
 
   <a href="#" style="text-decoration: none;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp4MnF5eHp2ZWQzdmFoZjJ5dzhubmFoZmJtMTlobWZ6b2FzdmRpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzyTuYCmvSORqs1ABM/giphy.gif" alt="Courtside" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
+    <img src="https://i.imgur.com/nDFyA97.gif" alt="Courtside" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
@@ -99,7 +77,7 @@
   <br>
 
   <a href="#" style="text-decoration: none;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVlemo0bW1pZmZrbm5naXRqMTk2em13MnR0cGJkbXN2bnBlZmc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Freelance Agency" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
+    <img src="https://i.imgur.com/YBRHjTn.gif" alt="Freelance Agency" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
@@ -111,25 +89,40 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="50" />
 </div>
 
-## 📜 Сертификаты | 証明書
+## 📜 Сертификаты
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate Hillel" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="cert1.jpg" alt="Certificate 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="certificate.png" alt="Certificate 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
-  </a>
+<div align="center">
+  <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); max-width: 1000px; margin: 0 auto;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; justify-items: center;">
+      <div style="transform: rotate(-2deg); transition: all 0.3s ease;">
+        <a href="#" style="text-decoration: none; display: block;">
+          <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate Hillel" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
+          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">Full Stack Developer</p>
+        </a>
+      </div>
+      
+      <div style="transform: rotate(2deg); transition: all 0.3s ease;">
+        <a href="#" style="text-decoration: none; display: block;">
+          <img src="cert1.jpg" alt="Certificate 1" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
+          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">UI/UX Design</p>
+        </a>
+      </div>
+      
+      <div style="transform: rotate(-1deg); transition: all 0.3s ease;">
+        <a href="#" style="text-decoration: none; display: block;">
+          <img src="certificate.png" alt="Certificate 2" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
+          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">React Advanced</p>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crying%20Cat.png" alt="Crying Cat" width="50" />
 </div>
 
-## 📊 GitHub статистика | GitHubの統計
+## 📊 GitHub статистика
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&icon_color=F05138&title_color=F05138&text_color=FFFFFF" alt="GitHub Stats" style="max-width: 100%;" />
@@ -145,14 +138,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Grinning%20Cat.png" alt="Grinning Cat" width="50" />
 </div>
 
-## 🏆 Достижения | 実績
+## 🏆 Достижения
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxtkach&theme=nord&no-frame=true&row=1&column=4&margin-w=15&no-bg=true&title=Followers,Stars,Commits,Repositories" alt="GitHub Trophies" style="max-width: 100%;" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun%20with%20Face.png" alt="Rising Sun with Face" width="80" />
 </div>
 
 <div align="center">
