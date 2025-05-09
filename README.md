@@ -56,33 +56,15 @@
 ## 📦 Проекты
 
 <div align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://i.imgur.com/Pyjp2X8.gif" alt="Begrateful App" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
-  </a>
   
-  <p>
-    <strong>Begrateful App ✨</strong> - Приложение для практики благодарности и развития позитивного мышления.
-  </p>
+  <h3>Begrateful App ✨</h3>
+  <p>Приложение для практики благодарности и развития позитивного мышления.</p>
 
-  <br>
+  <h3>Courtside 🏀</h3>
+  <p>Платформа для поиска спортивных площадок в вашем районе.</p>
 
-  <a href="#" style="text-decoration: none;">
-    <img src="https://i.imgur.com/nDFyA97.gif" alt="Courtside" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
-  </a>
-  
-  <p>
-    <strong>Courtside 🏀</strong> - Платформа для поиска спортивных площадок в вашем районе.
-  </p>
-
-  <br>
-
-  <a href="#" style="text-decoration: none;">
-    <img src="https://i.imgur.com/YBRHjTn.gif" alt="Freelance Agency" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
-  </a>
-  
-  <p>
-    <strong>Freelance Agency 🚀</strong> - Агентство по разработке JavaScript и React Native приложений.
-  </p>
+  <h3>Freelance Agency 🚀</h3>
+  <p>Агентство по разработке JavaScript и React Native приложений.</p>
 </div>
 
 <div align="center">
@@ -92,31 +74,22 @@
 ## 📜 Сертификаты
 
 <div align="center">
-  <div style="background: linear-gradient(45deg, #f3f4f6, #ffffff); border-radius: 20px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); max-width: 1000px; margin: 0 auto;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; justify-items: center;">
-      <div style="transform: rotate(-2deg); transition: all 0.3s ease;">
-        <a href="#" style="text-decoration: none; display: block;">
-          <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate Hillel" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
-          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">Full Stack Developer</p>
-        </a>
-      </div>
-      
-      <div style="transform: rotate(2deg); transition: all 0.3s ease;">
-        <a href="#" style="text-decoration: none; display: block;">
-          <img src="cert1.jpg" alt="Certificate 1" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
-          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">UI/UX Design</p>
-        </a>
-      </div>
-      
-      <div style="transform: rotate(-1deg); transition: all 0.3s ease;">
-        <a href="#" style="text-decoration: none; display: block;">
-          <img src="certificate.png" alt="Certificate 2" style="border-radius: 10px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); max-width: 100%; transform: translateY(0); transition: all 0.3s ease; border: 3px solid white;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
-          <p style="text-align: center; font-weight: bold; margin-top: 10px; color: #333;">React Advanced</p>
-        </a>
-      </div>
-    </div>
-  </div>
+  <a href="#">
+    <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate Hillel" width="250px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="cert1.jpg" alt="Certificate 1" width="250px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="certificate.png" alt="Certificate 2" width="250px" />
+  </a>
 </div>
+
+<p align="center">
+  <b>Full Stack Developer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>UI/UX Design</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>React Advanced</b>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crying%20Cat.png" alt="Crying Cat" width="50" />
