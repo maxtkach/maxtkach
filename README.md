@@ -1,14 +1,14 @@
-# <div align="center">👨‍💻 Макс Ткач | Розробник</div>
+# <div align="center">👨‍💻 Макс Ткач | 開発者 (Разработчик)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F05138&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;%E6%8A%80%E8%A1%93%E6%8E%A2%E6%B1%82%E8%80%85" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk3ZGJ2azljczNnNmF3Znh6bWRzZmdrdmF2Z3kwdHZtZ2ZlNTltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="200px" style="border-radius: 20px;" />
   </p>
 
   <p align="center">
-    <em>Зосередься на прогресі, а не на досконалості.</em>
+    <em>「Сосредоточься на прогрессе, а не на совершенстве」</em>
   </p>
   
   <a href="https://www.instagram.com/maxtkach4/?hl=ru">
@@ -21,39 +21,45 @@
 
 <br>
 
-## 🧠 Моя Філософія
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" />
+</div>
+
+## 🧠 Моя Философия | 私の哲学
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="40" alt="Simplicity" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cherry%20Blossom.png" width="40" alt="Sakura" />
         <br>
-        <strong>Простота</strong>
+        <strong>Простота (侘寂 Ваби-саби)</strong>
         <br>
-        <em>Простота - вища форма досконалості</em>
+        <em>Простота - высшая форма изысканности</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/4727/4727416.png" width="40" alt="Growth" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun.png" width="40" alt="Growth" />
         <br>
-        <strong>Постійне вдосконалення</strong>
+        <strong>Постоянное совершенствование (改善 Кайдзен)</strong>
         <br>
-        <em>Щоденний прогрес веде до великих змін</em>
+        <em>Ежедневный прогресс ведет к великим изменениям</em>
       </td>
       <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/6823/6823086.png" width="40" alt="Precision" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="40" alt="Precision" />
         <br>
-        <strong>Точність</strong>
+        <strong>Точность (精度 Сэйдо)</strong>
         <br>
-        <em>Точність важливіша за досконалість</em>
+        <em>Точность важнее совершенства</em>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="50" />
+</div>
 
-## 💻 Технології
+## 💻 Технологии | テクノロジー
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -65,79 +71,94 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="50" />
+</div>
 
-## 📦 Проекти
+## 📦 Проекты | プロジェクト
 
 <div align="center">
   <a href="#" style="text-decoration: none;">
-    <img src="https://dummyimage.com/800x400/000/fff&text=Begrateful+App" alt="Begrateful App" style="border-radius: 15px; max-width: 90%;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwYzBiZmoxZWVkbXVxcm9uOWM0OG94c2U5eXV5ZHYza2h0bzV1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Begrateful App" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
-    <strong>Begrateful App</strong> - Додаток для практики вдячності і розвитку позитивного мислення.
+    <strong>Begrateful App ✨</strong> - Приложение для практики благодарности и развития позитивного мышления.
   </p>
 
   <br>
 
   <a href="#" style="text-decoration: none;">
-    <img src="https://dummyimage.com/800x400/000/fff&text=Courtside+-+Find+a+Court" alt="Courtside" style="border-radius: 15px; max-width: 90%;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp4MnF5eHp2ZWQzdmFoZjJ5dzhubmFoZmJtMTlobWZ6b2FzdmRpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzyTuYCmvSORqs1ABM/giphy.gif" alt="Courtside" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
-    <strong>Courtside</strong> - Платформа для пошуку спортивних майданчиків у вашому районі.
+    <strong>Courtside 🏀</strong> - Платформа для поиска спортивных площадок в вашем районе.
   </p>
 
   <br>
 
   <a href="#" style="text-decoration: none;">
-    <img src="https://dummyimage.com/800x400/000/fff&text=Freelance+Agency+-+JS+&+RN" alt="Freelance Agency" style="border-radius: 15px; max-width: 90%;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVlemo0bW1pZmZrbm5naXRqMTk2em13MnR0cGJkbXN2bnBlZmc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Freelance Agency" style="border-radius: 15px; max-width: 300px; height: 150px; object-fit: cover; border: 2px solid #F05138;" />
   </a>
   
   <p>
-    <strong>Freelance Agency</strong> - Агентство з розробки JavaScript і React Native додатків.
+    <strong>Freelance Agency 🚀</strong> - Агентство по разработке JavaScript и React Native приложений.
   </p>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="50" />
+</div>
 
-## 📜 Сертифікати
+## 📜 Сертификаты | 証明書
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 300px;" />
-  <!-- Placeholder images for the other certificates -->
-  <img src="https://dummyimage.com/300x200/eee/333&text=Certificate+2" alt="Certificate 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 300px;" />
-  <img src="https://dummyimage.com/300x200/eee/333&text=Certificate+3" alt="Certificate 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 300px;" />
+  <a href="#" style="text-decoration: none;">
+    <img src="https://lms.ithillel.ua/uploads/certificates/24599676_en.png" alt="Certificate Hillel" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="cert1.jpg" alt="Certificate 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
+  </a>
+  <a href="#" style="text-decoration: none;">
+    <img src="certificate.png" alt="Certificate 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 250px; border: 2px solid #F05138;" />
+  </a>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crying%20Cat.png" alt="Crying Cat" width="50" />
+</div>
 
-## 📊 GitHub статистика
+## 📊 GitHub статистика | GitHubの統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&icon_color=F05138&title_color=F05138&text_color=FFFFFF" alt="GitHub Stats" style="max-width: 100%;" />
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtkach&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtkach&theme=nord&hide_border=true&background=0D1117&stroke=F05138&ring=F05138&fire=F05138&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F05138&sideLabels=F05138&dates=FFFFFF" alt="GitHub Streak" style="max-width: 100%;" />
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtkach&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtkach&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=F05138&text_color=FFFFFF" alt="Most Used Languages" style="max-width: 100%;" />
 </div>
 
-<br>
-
-## 🏆 Досягнення
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxtkach&theme=radical&no-frame=true&row=1&column=4" alt="GitHub Trophies" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Grinning%20Cat.png" alt="Grinning Cat" width="50" />
 </div>
 
-<br>
+## 🏆 Достижения | 実績
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maxtkach&theme=nord&no-frame=true&row=1&column=4&margin-w=15&no-bg=true&title=Followers,Stars,Commits,Repositories" alt="GitHub Trophies" style="max-width: 100%;" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun%20with%20Face.png" alt="Rising Sun with Face" width="80" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20,15,14&height=100&section=footer" width="100%" />
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=maxtkach&label=Переглядів+профілю&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=maxtkach&label=Просмотров+профиля&color=F05138&style=for-the-badge" alt="Profile Views" />
 </div>
