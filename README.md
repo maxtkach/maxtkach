@@ -25,16 +25,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" />
 </div>
 
-## 🧠 Моя Философия
 
 <div align="center">
-  <p align="center" style="font-size: 18px; max-width: 600px; margin: 0 auto;">
-    <strong>Кайдзен — </strong>путь постоянного совершенствования. Каждый день делай маленький шаг вперед, и со временем эти шаги приведут к большим переменам.
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="50" />
+  😺
 </div>
 
 ## 💻 Технологии
@@ -50,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="50" />
+  😼
 </div>
 
 ## 📦 Проекты
@@ -67,9 +60,6 @@
   <p>Агентство по разработке JavaScript и React Native приложений.</p>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="50" />
-</div>
 
 ## 📜 Сертификаты
 
@@ -87,13 +77,6 @@
   </a>
 </div>
 
-<p align="center">
-  <b>Full Stack Developer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>UI/UX Design</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>React Advanced</b>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crying%20Cat.png" alt="Crying Cat" width="50" />
-</div>
 
 ## 📊 GitHub статистика
 
@@ -108,7 +91,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Grinning%20Cat.png" alt="Grinning Cat" width="50" />
+  😸
 </div>
 
 ## 🏆 Достижения
