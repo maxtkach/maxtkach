@@ -5,9 +5,9 @@
 
 <!-- SUB-HEADER / POSITIONING -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Pixel Mascot" width="34" height="34" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Pixel Mascot" width="72" height="72" />
   <br>
-  <sub><strong>Kyiv / Ukraine 🇺🇦 &nbsp;&bull;&nbsp; <code>Building Living Web Ecosystems</code> &nbsp;&bull;&nbsp; 視覚体験と工学</strong></sub>
+  <sub><strong>Odesa, Ukraine 🇺🇦 &nbsp;&bull;&nbsp; <code>Building Living Web Ecosystems</code> &nbsp;&bull;&nbsp; 視覚体験と工学</strong></sub>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 <!-- SOCIAL MATRIX -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/max-tkach-0b54a320b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/max-tkach-0b54a320b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://t.me/maxtkach44"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="24" alt="Telegram" /></a>
+  <a href="https://t.me/maxtkach44"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="26" alt="Telegram" /></a>
   &nbsp;
-  <a href="https://instagram.com/maxtkach44"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
+  <a href="https://instagram.com/maxtkach44"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram" /></a>
   &nbsp;
-  <a href="mailto:maxtkach@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
+  <a href="mailto:maxtkach@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Email" /></a>
 </p>
 
 </div>
@@ -183,13 +183,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxtkach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=818cf8&text_color=94a3b8&icon_color=c084fc" alt="GitHub Overview" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxtkach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=818cf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/818cf8/maxtkach" alt="Max Tkach Contribution Activity" width="100%" />
+</p>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maxtkach&theme=tokyonight&hide_border=true&background=0D111700&stroke=818cf8&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" alt="Commit Streak" width="97%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=maxtkach&theme=tokyonight&hide_border=true&background=0D111700&stroke=818cf8&ring=c084fc&fire=f472b6&currStreakLabel=c084fc" alt="Commit Streak Telemetry" width="85%" />
+</p>
 
 </div>
 
@@ -223,7 +223,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif" alt="Sleeping Mascot" width="34" height="34" />
+<img src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif" alt="Sleeping Mascot" width="64" height="64" />
 
 <br>
 
